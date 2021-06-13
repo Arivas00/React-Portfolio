@@ -1,24 +1,33 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.ce24f8b3.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.ab6473e5.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.ab6473e5.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.f26c0043.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.f26c0043.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.48332091.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.48332091.js.map",
     "static/css/2.61b4cb56.chunk.css": "/React-Portfolio/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.287fae9d.chunk.js": "/React-Portfolio/static/js/2.287fae9d.chunk.js",
-    "static/js/2.287fae9d.chunk.js.map": "/React-Portfolio/static/js/2.287fae9d.chunk.js.map",
+    "static/js/2.08f95925.chunk.js": "/React-Portfolio/static/js/2.08f95925.chunk.js",
+    "static/js/2.08f95925.chunk.js.map": "/React-Portfolio/static/js/2.08f95925.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/React-Portfolio/static/css/2.61b4cb56.chunk.css.map",
     "static/css/main.ce24f8b3.chunk.css.map": "/React-Portfolio/static/css/main.ce24f8b3.chunk.css.map",
-    "static/js/2.287fae9d.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.287fae9d.chunk.js.LICENSE.txt",
-    "static/media/Prof_pic.03881d64.jpg": "/React-Portfolio/static/media/Prof_pic.03881d64.jpg"
+    "static/js/2.08f95925.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.08f95925.chunk.js.LICENSE.txt",
+    "static/media/BudgetTracker.718a5351.png": "/React-Portfolio/static/media/BudgetTracker.718a5351.png",
+    "static/media/Employee-Directory.2ba1c4e9.png": "/React-Portfolio/static/media/Employee-Directory.2ba1c4e9.png",
+    "static/media/MatchBoard.b509f299.png": "/React-Portfolio/static/media/MatchBoard.b509f299.png",
+    "static/media/MovieSnapshot.b58500b0.png": "/React-Portfolio/static/media/MovieSnapshot.b58500b0.png",
+    "static/media/Note-Taker.74859486.png": "/React-Portfolio/static/media/Note-Taker.74859486.png",
+    "static/media/PasswordGenerator.aa25cbf8.png": "/React-Portfolio/static/media/PasswordGenerator.aa25cbf8.png",
+    "static/media/Prof_pic.03881d64.jpg": "/React-Portfolio/static/media/Prof_pic.03881d64.jpg",
+    "static/media/WorkDay.2f51d98e.png": "/React-Portfolio/static/media/WorkDay.2f51d98e.png",
+    "static/media/Workout-Tracker.d5385f73.png": "/React-Portfolio/static/media/Workout-Tracker.d5385f73.png",
+    "static/media/jamchatdemo.cc80b47e.gif": "/React-Portfolio/static/media/jamchatdemo.cc80b47e.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.48332091.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.287fae9d.chunk.js",
+    "static/js/2.08f95925.chunk.js",
     "static/css/main.ce24f8b3.chunk.css",
-    "static/js/main.ab6473e5.chunk.js"
+    "static/js/main.f26c0043.chunk.js"
   ]
 }
