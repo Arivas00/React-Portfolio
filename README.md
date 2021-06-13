@@ -37,9 +37,9 @@ This project is licensed under the MIT license.
 
 ## Images
 
-![Screenshot](./assets/images/HomePage.png)
-![Screenshot](./assets/images/PortfolioPage.png)
-![Screenshot](./assets/images/ContactPage.png)
+![Screenshot](./src/assets/images/HomePage.png)
+![Screenshot](./src/assets/images/PortfolioPage.png)
+![Screenshot](./src/assets/images/ContactPage.png)
 
 ## Tests
 
