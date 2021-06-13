@@ -4,7 +4,7 @@ import './style.css'
 
 export default function Navbar() {
     const icons = {
-        fontSize: "35px",
+        fontSize: "30px",
         color: "white",
         textDecoration: "none",
     }

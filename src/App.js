@@ -13,10 +13,10 @@ function App() {
           <About />
         </Route>
         <Route exact path="/portfolio">
-          <Contact />
+          <Portfolio />
         </Route>
         <Route exact path="/contact">
-          <Portfolio />
+          <Contact />
         </Route>
       </Router>
     </div>
