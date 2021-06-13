@@ -1,8 +1,9 @@
 import React from "react";
 import { HashRouter as Router, Route } from "react-router-dom";
 import About from "./pages/About";
-import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
+import Contact from "./pages/Contact";
+
 
 function App() {
   return (
@@ -11,10 +12,10 @@ function App() {
         <Route exact path="/">
           <About />
         </Route>
-        <Route exact path="/contact">
+        <Route exact path="/portfolio">
           <Contact />
         </Route>
-        <Route exact path="/portfolio">
+        <Route exact path="/contact">
           <Portfolio />
         </Route>
       </Router>
