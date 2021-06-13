@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/Footer/style.css"],"names":[],"mappings":"AACA,aACI,cAAe,CACf,yBAAkB,CAAlB,iBAAkB,CAClB,aAAc,CACd,oBACJ","file":"main.687035ad.chunk.css","sourcesContent":["\r\n.footerlinks {\r\n    font-size: 40px; \r\n    align-self: center; \r\n    color: inherit; \r\n    text-decoration: none;\r\n}"]}
