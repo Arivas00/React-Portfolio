@@ -8,7 +8,6 @@ export default function Contact() {
         <div >
             <Navbar />
             <br></br>
-            <br></br>
             <Container>
                 <Row className="justify-content-center">
                     <Col lg={6}>
