@@ -27,7 +27,7 @@ export default function Navbar() {
                         <a href="mailto:a.chisar00@gmail.com"><i className="far fa-envelope"></i></a>
                     </Col>
                     <Col lg={1} style={icons}>
-                        <a href="https://drive.google.com/file/d/19QlZs6WRAUCi7K-xb_Dk7CIttAAR_E6l/view?usp=sharing"><i className="far fa-file"></i></a>
+                        <a href="https://drive.google.com/file/d/1tgU8LYXpKdALpTDv3MD7PTJqgIT_MTKD/view?usp=sharing"><i className="far fa-file"></i></a>
                     </Col>
                 </Row>
                 <Row className="justify-content-center">
