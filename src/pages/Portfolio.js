@@ -86,7 +86,7 @@ export default function Portfolio() {
                                         <Project
                                             img={note}
                                             title="Password Generator"
-                                            link="https://arivas00.github.io/Password_Generator/"
+                                            link="https://notes-taker-1.herokuapp.com/"
                                             repo="https://github.com/Arivas00/Note-taker"
                                         />
                                     </Col>
@@ -101,7 +101,7 @@ export default function Portfolio() {
                                     <Col xs={4}>
                                         <Project
                                             img={empDirectory}
-                                            title="Budget Tracker"
+                                            title="Employee Directory"
                                             link="https://arivas00.github.io/Employee-Directory/"
                                             repo="https://github.com/Arivas00/Employee-Directory"
                                         />
