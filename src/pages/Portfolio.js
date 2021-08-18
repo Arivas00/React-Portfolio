@@ -85,7 +85,7 @@ export default function Portfolio() {
                                 <Col xs={4}>
                                         <Project
                                             img={note}
-                                            title="Password Generator"
+                                            title="Note Taker"
                                             link="https://notes-taker-1.herokuapp.com/"
                                             repo="https://github.com/Arivas00/Note-taker"
                                         />
@@ -93,7 +93,7 @@ export default function Portfolio() {
                                     <Col xs={4}>
                                         <Project
                                             img={workout}
-                                            title="Work Day Scheduler"
+                                            title="Fitness Tracker"
                                             link="https://workout-tracker-00.herokuapp.com/"
                                             repo="https://github.com/Arivas00/Workout_tracker"
                                         />
